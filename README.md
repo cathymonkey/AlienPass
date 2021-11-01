@@ -7,9 +7,10 @@
 ### AlienPass is a service provided by New Citizen consisting of three students(Chengyu Fan, Isabel Andreatta, Mana Sakamoto) from UWC ISAK Japan. 
 
 
-For the detailed business plan, please go to https://docs.google.com/document/d/1n0KIkYAouoKfG5DbSiMCqSzvmFyycjsNJ3QR6A7CibY/edit?usp=sharing
+For the detailed business plan, please go to https://docs.google.com/document/d/1n0KIkYAouoKfG5DbSiMCqSzvmFyycjsNJ3QR6A7CibY/edit?usp=sharing (access might not be valid)
 
-For the detailed code, please go to https://drive.google.com/drive/folders/1zuEM8YBEiUF_XsCI16cP8N7inSP_03FO?usp=sharing
+For the detailed code, please go to 
+https://drive.google.com/drive/folders/1zuEM8YBEiUF_XsCI16cP8N7inSP_03FO?usp=sharing
 
 
 
