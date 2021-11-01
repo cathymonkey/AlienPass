@@ -16,3 +16,4 @@ Then please go to https://drive.google.com/drive/folders/19PjfdOvy9b0Ub412orZFp3
 - How to find the main code for the application?
 
 AlienPass -> app -> src -> main -> java -> com -> example -> monkeyapp -> code for different pages and activities in the app
+
